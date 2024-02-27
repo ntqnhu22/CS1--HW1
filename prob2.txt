@@ -1,0 +1,2 @@
+The outputs of -40, 0, 20, 30, 100 are: -40.0, 32.0,  68.0, 86.0, 212.0
+The code is about converting a Fahrenheit tempature to a Celsius tempature.
